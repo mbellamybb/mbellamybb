@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Michael</h1>
+<h1 align="center">Hi👋🏾, I'm Michael</h1>
 <h3 align="center">I help business owners and companies make better decisions using data. | Business Consultant | Business Analyst | Learning Web Development</h3>
 
 - 🌱 I’m currently learning **Javascript and Python**
