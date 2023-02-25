@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋🏾, I'm Michael</h1>
-<h3 align="center"> I help businesses business owners and companies make informed decisions on strategy using data-driven insights. | Business Consultant | Data Analyst </h3>
+<h3 align="center"> I help business owners and companies make informed decisions on strategy using data-driven insights. | Business Consultant | Data Analyst </h3>
 
 - 🌱 I’m currently learning **Python**
 
