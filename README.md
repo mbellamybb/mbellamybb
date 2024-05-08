@@ -8,7 +8,7 @@ Key Skills:
 
 - Microsoft Office
 
-- Tableau ( Desktop, Server & Tableau Prep)
+- Tableau ( Desktop, Cloud, Server & Tableau Prep)
 
 - Alteryx (Designer & Server)
 
