@@ -27,6 +27,10 @@ Key Skills:
 ### Data Viz Portfolio 
 See more:[Tableau Public](https://public.tableau.com/app/profile/mbellamybb)
 
+<a href="https://public.tableau.com/views/ExecutiveExpenseReport/ExecutiveExpenseReport?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link">
+    <img src="https://public.tableau.com/static/images/Ex/ExecutiveExpenseReport/ExecutiveExpenseReport/4_3.png" width ="25%">
+  </a>
+
 <a href="https://public.tableau.com/views/AndtheBestPicturegoesto___/AndtheBestPicturegoesto___?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link">
     <img src="https://public.tableau.com/thumb/views/AndtheBestPicturegoesto___/AndtheBestPicturegoesto___ " width ="25%">
   </a>
