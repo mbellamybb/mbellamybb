@@ -2,23 +2,16 @@
 <h3 align="center"> MBA | Business Consultant | Data Analyst | Tableau & Alteryx Consultant | Dedicated to empowering businesses with data-driven insights & visualizations for strategic growth & success. </h3>
 
 ### About me:
-Over the last decade, I have gained experience in corporate and entrepreneurial spaces as a Business Consultant and Business Owner. My more recent experience is in the data analytics field as a Tableau and Alteryx Consultant, where I specialize in data analysis and visualization. In the data analytics field, I have designed, built, and implemented client-focused data solutions independently and in collaboration with dynamic teams across various industries. In addition, I have participated in public and private training sessions focusing on data analytics best practices and the effective utilization of the Tableau and Alteryx suite of products. My academic background includes a Master’s in Business Administration and a Bachelor's in Sociology.
+Hi, I am Michael Bellamy a results-oriented Data Analyst and Business Consultant with a decade of corporate experience and a strong entrepreneurial background. Passionate about leveraging data-driven insights to drive informed decision-making and optimize organizational performance using analytics and visualization tools.
 
-Key Skills:
+I hold a Master’s in Business Administration and a Bachelor's in Sociology. With over a decade of experience as a Business Consultant and Business Owner, I've navigated both corporate and entrepreneurial landscapes. More recently, I've focused on data analytics as a Tableau and Alteryx Consultant, where I design, build, and implement client-focused data solutions. My work spans various industries, often collaborating with dynamic teams and leading public and private training and enablement sessions on data analytics best practices and tools. 
 
-- Microsoft Office
-
-- Tableau ( Desktop, Cloud, Server & Tableau Prep)
-
-- Alteryx (Designer & Server)
-
-- SQL (MySQL, Snowflake)
-
+🔑 Key Skills:
+- Tableau and Alteryx
 - Data Analysis and Visualization
-
-- Project Management
-
+- Excel, SQL
 - Business Consulting (Operations Optimization and Growth Strategy)
+- Project Management
 
 ### Portfolio:  [mbellamybb.com](https://www.mbellamybb.com/)
 
