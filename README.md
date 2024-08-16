@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋🏾, I'm Michael</h1>
-<h3 align="center"> MBA | Business Consultant | Data Analyst | Tableau & Alteryx Consultant | Dedicated to empowering businesses with data-driven insights & visualizations for strategic growth & success. </h3>
+<h3 align="center"> Tableau & Alteryx Consultant @ The Information Lab US | MBA | Business Consultant & Data Analyst | Driving Strategic Growth with Data-Driven Insights </h3>
 
 ### About me:
 Hi, I am Michael Bellamy a results-oriented Data Analyst and Business Consultant with a decade of corporate experience and a strong entrepreneurial background. Passionate about leveraging data-driven insights to drive informed decision-making and optimize organizational performance using analytics and visualization tools.
