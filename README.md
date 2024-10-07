@@ -1,10 +1,10 @@
 <h1 align="center">Hi👋🏾, I'm Michael</h1>
-<h3 align="center"> Tableau & Alteryx Consultant @ The Information Lab US | MBA | Business Consultant & Data Analyst | Driving Strategic Growth with Data-Driven Insights </h3>
+<h3 align="center"> Tableau & Alteryx Consultant @ The Information Lab US | MBA | Business Consultant | BI Consultant | Data Analyst | Driving Strategic Growth with Data-Driven Insights </h3>
 
 ### About me:
-Hi, I am Michael Bellamy a results-oriented Data Analyst and Business Consultant with a decade of corporate experience and a strong entrepreneurial background. Passionate about leveraging data-driven insights to drive informed decision-making and optimize organizational performance using analytics and visualization tools.
+Hi, I am Michael Bellamy a results-oriented Data Analyst and Business and BI Consultant with a decade of corporate experience and a strong entrepreneurial background. Passionate about leveraging data-driven insights to drive informed decision-making and optimize organizational performance using analytics and visualization tools.
 
-I hold a Master’s in Business Administration and a Bachelor's in Sociology. With over a decade of experience as a Business Consultant and Business Owner, I've navigated both corporate and entrepreneurial landscapes. More recently, I've focused on data analytics as a Tableau and Alteryx Consultant, where I design, build, and implement client-focused data solutions. My work spans various industries, often collaborating with dynamic teams and leading public and private training and enablement sessions on data analytics best practices and tools. 
+I hold a Master’s in Business Administration and a Bachelor's in Sociology. With over a decade of experience as a Business Consultant and Business Owner, I've navigated corporate and entrepreneurial environments. More recently, I've focused on data analytics as a Tableau and Alteryx Consultant, where I design, build, and implement client-focused data solutions. My work spans various industries, often collaborating with dynamic teams and leading public and private training and enablement sessions on data analytics best practices and tools. 
 
 🔑 Key Skills:
 - Tableau and Alteryx
