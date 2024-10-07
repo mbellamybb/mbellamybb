@@ -20,6 +20,26 @@ I hold a Master’s in Business Administration and a Bachelor's in Sociology. Wi
 ### Data Viz Portfolio 
 See more:[Tableau Public](https://public.tableau.com/app/profile/mbellamybb)
 
+<a href="https://public.tableau.com/views/Superstore-SalesVolumeVariance/Superstore-SalesVolumeAnalysis">
+    <img src="https://public.tableau.com/thumb/views/Superstore-SalesVolumeVariance/Superstore-SalesVolumeAnalysis" width ="25%">
+  </a>
+
+<a href="https://public.tableau.com/views/2024NewYorkIncomeTaxCalculator/2024NYIncomeTaxCalculator">
+    <img src="https://public.tableau.com/thumb/views/2024NewYorkIncomeTaxCalculator/2024NYIncomeTaxCalculator" width ="25%">
+  </a>
+
+<a href="https://public.tableau.com/views/WestCoastTelecom-ChurnReportAnalysis/CustomerAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+    <img src="https://public.tableau.com/thumb/views/WestCoastTelecom-ChurnReportAnalysis/CustomerAnalysis" width ="25%">
+  </a>
+
+<a href="https://public.tableau.com/views/TheJulianAssangeSagaATimelineofLegalBattles_17199580839630/TheJulianAssangeSagaATimelineofLegalBattles">
+    <img src="https://public.tableau.com/thumb/views/TheJulianAssangeSagaATimelineofLegalBattles_17199580839630/TheJulianAssangeSagaATimelineofLegalBattles" width ="25%">
+  </a>
+
+<a href="https://public.tableau.com/views/NorthwindTraders-AnnualPerformanceReview/NorthwindTraders-SalesPerformance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+    <img src="https://public.tableau.com/thumb/views/NorthwindTraders-AnnualPerformanceReview/NorthwindTraders-SalesPerformance" width ="25%">
+  </a>
+  
 <a href="https://public.tableau.com/views/ExecutiveExpenseReport/ExecutiveExpenseReport?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link">
     <img src="https://public.tableau.com/static/images/Ex/ExecutiveExpenseReport/ExecutiveExpenseReport/4_3.png" width ="25%">
   </a>
