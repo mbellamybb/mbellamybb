@@ -1,19 +1,20 @@
 <h1 align="center">Hi👋🏾, I'm Michael</h1>
-<h3 align="center"> Tableau & Alteryx Consultant @ The Information Lab US | MBA | Business Consultant | BI Consultant | Data Analyst | Driving Strategic Growth with Data-Driven Insights </h3>
+<h3 align="center"> Tableau & Alteryx Consultant @ The Information Lab US | MBA | Business & BI Consultant | Data Analyst </h3>   
+<h3 align="center"> I transform data into insights to help businesses make better decisions and improve performance </h3>
 
 ### About me:
-Hi, I am Michael Bellamy a results-oriented Data Analyst and Business and BI Consultant with a decade of corporate experience and a strong entrepreneurial background. Passionate about leveraging data-driven insights to drive informed decision-making and optimize organizational performance using analytics and visualization tools.
+Hi, I’m Michael Bellamy, a results-driven Data Analyst and Business and BI Consultant with over a decade of corporate experience and a strong entrepreneurial background. I specialize in transforming data into actionable insights to help businesses make better decisions and optimize performance through analytics and visualization.
 
-I hold a Master’s in Business Administration and a Bachelor's in Sociology. With over a decade of experience as a Business Consultant and Business Owner, I've navigated corporate and entrepreneurial environments. More recently, I've focused on data analytics as a Tableau and Alteryx Consultant, where I design, build, and implement client-focused data solutions. My work spans various industries, often collaborating with dynamic teams and leading public and private training and enablement sessions on data analytics best practices and tools. 
+- 🔑 Key Skills and Expertise:
 
-🔑 Key Skills:
-- Tableau and Alteryx
-- Data Analysis and Visualization
-- Excel, SQL
-- Business Consulting (Operations Optimization and Growth Strategy)
-- Project Management
+	- Data Analysis & Visualization (Tableau, Alteryx, Excel, SQL)
+	- Business Consulting (Operations Optimization, Growth Strategy)
+	- Project Management
+	- Training & Enablement in Data Analytics Best Practices
 
 ### Portfolio:  [mbellamybb.com](https://www.mbellamybb.com/)
+
+### Free Career Resources for Data Professionals: [Free Resourcses](https://www.mbellamybb.com/)
 
 ### Blog: [Blog](https://www.mbellamybb.com/blog)
 
