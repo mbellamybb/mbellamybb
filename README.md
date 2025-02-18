@@ -14,51 +14,22 @@ I am a **results-driven Data Analyst and Business/BI Consultant**. I specialize 
 ## 🛠 Technologies & Environments  
 
 ### **Data Preparation & Analysis**  
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-      <img src="https://i.ibb.co/PZ9Jw103/Microsoft-Office-Excel-2019-present-svg.png" alt="Excel" height="50" />
-  </a>
-  <a href="https://aws.amazon.com/athena/" target="_blank">
-      <img src="https://i.ibb.co/zWB61B1X/amazon-athena-cover.png" alt="Amazon Athena" height="50" />
-  </a>
-       <img src="https://i.ibb.co/MsG1CDC/SQL-Library.png" alt="MySQL" height="50" />
-  </a>
-  <a href="https://www.snowflake.com/" target="_blank">
-      <img src="https://i.ibb.co/V03Gw8Lk/Snowflake-Inc-Logo-wine.png" alt="Snowflake" height="50" />
-  </a>
-  <a href="https://www.tableau.com/products/prep" target="_blank">
-      <img src="https://i.ibb.co/3yStDbtY/tableau-prep.png" alt="Tableau Prep" height="50" />
-  </a>
-  <a href="https://www.alteryx.com/products/alteryx-designer" target="_blank">
-      <img src="https://i.ibb.co/7K2fHsr/2.png" alt="Alteryx Designer" height="50" />
-  </a>
-</p>
+🔹 **Excel**
+🔹 **Amazon Athena**
+🔹 **SQL**
+🔹 **Snowflake**
+🔹 **Tableau Prep**
+🔹 **Alteryx**
 
 ### **Visualization**  
-<p align="left">
-  <a href="https://www.tableau.com/" target="_blank">
-      <img src="https://i.ibb.co/6RYfM3D0/tableau.png" alt="Tableau" height="50" />
-  </a>
-    <a href="https://app.powerbi.com/" target="_blank">
-            <img src="https://i.ibb.co/tM0Jdprt/Power-BI.png" alt="Tableau" height="50">
- </a>
-</p>
+🔹 **Tableau**
+🔹 **Power BI**
 
 ### **Project Management & Collaboration Tools**  
-<p align="left">
-  <a href="https://www.atlassian.com/software/confluence" target="_blank">
-      <img src="https://i.ibb.co/1GC4nvBY/Confluence-Emblem.png" alt="Confluence" height="50" />
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
-      <img src="https://i.ibb.co/HDP0HyD4/Jira-Logo-svg.png" alt="Jira" height="50" />
-  </a>
-  <a href="https://workspace.google.com/" target="_blank">
-      <img src="https://i.ibb.co/m5WLtd6K/Google-Workspace-Symbol.png" alt="Google Workspace" height="50" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
-      <img src="https://i.ibb.co/9HQQjHdJ/Microsoft-Office-Logo-wine.png" alt="Microsoft Office" height="50" />
-  </a>
-</p>
+🔹 **Jira**
+🔹 **Confluence**
+🔹 **Google Workspace**
+🔹 **Mircosoft Office**
 
 ---
 
