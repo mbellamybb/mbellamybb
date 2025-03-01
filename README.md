@@ -1,7 +1,6 @@
 <h1 align="center">Hi👋🏾, I'm Michael</h1>
 <h3 align="center"> MBA | Business & BI Consultant | Data Analyst </h3>   
 
-### About me:
 I help businesses leverage data to deliver **self-service analytics** and drive performance with **data-driven insights**.
 
 ### 🔗 Learn More  
