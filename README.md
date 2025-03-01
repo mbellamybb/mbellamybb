@@ -1,6 +1,5 @@
 <h1 align="center">Hi👋🏾, I'm Michael</h1>
-<h3 align="center"> Tableau & Alteryx Consultant @ The Information Lab US | MBA | Business & BI Consultant | Data Analyst </h3>   
-<h3 align="center"> I transform data into insights to help businesses make better decisions and improve performance </h3>
+<h3 align="center"> MBA | Business & BI Consultant | Data Analyst </h3>   
 
 ### About me:
 I help businesses leverage data to deliver **self-service analytics** and drive performance with **data-driven insights**.
