@@ -3,7 +3,8 @@
 <h3 align="center"> I transform data into insights to help businesses make better decisions and improve performance </h3>
 
 ### About me:
-I am a **results-driven Data Analyst and Business/BI Consultant**. I specialize in **transforming data into actionable insights** to help businesses make better decisions and optimize performance through analytics and visualization.  
+I help businesses leverage data to deliver **self-service analytics** and drive performance with **data-driven insights**.
+
 ### 🔗 Learn More  
 <a href="https://www.linkedin.com/in/mbellamybb/" target="_blank">
     <img src="https://i.ibb.co/QD7pFL0/linkedIn.png" alt="LinkedIn" width="10%">
