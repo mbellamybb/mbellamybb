@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋🏾, I'm Michael</h1>
 <h3 align="center"> MBA | Business & BI Consultant | Data Analyst </h3>   
 
-I help businesses leverage data to deliver **self-service analytics** and drive performance with **data-driven insights**.
+<h4 align="center"> I help businesses leverage data to deliver self-service analytics and drive performance with data-driven insights.</h4>
 
 ### 🔗 Learn More  
 <a href="https://www.linkedin.com/in/mbellamybb/" target="_blank">
