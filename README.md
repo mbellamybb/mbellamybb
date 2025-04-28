@@ -1,7 +1,9 @@
 <h1 align="center">Hi👋🏾, I'm Michael</h1>
-<h3 align="center"> MBA | Business & BI Consultant | Data Analyst </h3>   
+<h3 align="center"> MBA | Data & BI Consultant | Data Analyst  </h3>   
 
-<h4 align="center"> I help businesses leverage data to deliver self-service analytics and drive performance with data-driven insights.</h4>
+<h4 align="center"> Data Analyst & BI Consultant specializing in Self-Service Analytics, Data Automation, and Scalable Business Intelligence Solutions.
+
+I help organizations leverage Tableau, Alteryx, and SQL to build scalable analytics frameworks, automate reporting processes, and drive performance with real-time, data-driven insights. </h4>
 
 ### 🔗 Learn More  
 <a href="https://www.linkedin.com/in/mbellamybb/" target="_blank">
@@ -12,17 +14,18 @@
 
 ## 🛠 Technologies & Environments  
 
-### **Data Preparation & Analysis**  
+### **Data Preparation and Automation**  
 🔹 **Excel**
 🔹 **Amazon Athena**
 🔹 **SQL**
-🔹 **Snowflake**
 🔹 **Tableau Prep**
 🔹 **Alteryx**
 
-### **Visualization**  
+### **Data Visualization**  
 🔹 **Tableau**
 🔹 **Power BI**
+
+### **Self-Service Analytics Frameworks & Governance**  
 
 ### **Project Management & Collaboration Tools**  
 🔹 **Jira**
@@ -30,19 +33,27 @@
 🔹 **Google Workspace**
 🔹 **Mircosoft Office**
 
+### **Data Strategy Consulting and Stakeholder Enablement**
 ---
 
 ## 🛠 Professional Expertise & Industry Experience  
 
-| **Professional Expertise** | **Industry Experience** |
-|---------------------------|------------------------|
-| **Data Preparation** (Alteryx, Excel, SQL, Tableau Prep) | **Healthcare** |
-| **Data Visualization** (Tableau) | **Financial Services** |
-| **Training & Implementation** | **Non-Profit** |
-| **Business Consulting** (Operations Optimization, Growth Strategy) | **Insurance** |
-| **Project Management** | **Beverage & Food Services** |
-| | **Contact Centers** |
+| **Professional Expertise** |
+|------------------------------|
+| **Data Preparation and Automation** (Alteryx, Excel, SQL, Tableau Prep) |
+| **Data Visualization** (Tableau, Power BI) |
+| **Data Strategy Consulting and Stakeholder Enablement** |
+| **Business Consulting** (Operations Optimization, Growth Strategy) |
+| **Self-Service Analytics Frameworks & Governance** |
+| **Project Management** (Confluence, Jira) |
 
+| **Industry Experience** |
+|---------------------------|
+| **Financial Services** |
+| **Non-Profit** |
+| **Insurance** |
+| **Beverage & Food Services** |
+| **Contact Centers** |
 ---
 
 ## 🌐 Resources & Portfolio  
