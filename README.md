@@ -3,7 +3,7 @@
 
 <h4 align="center"> Data Analyst & BI Consultant specializing in Self-Service Analytics, Data Automation, and Scalable Business Intelligence Solutions.
 
-I help organizations leverage Tableau, Alteryx, and SQL to build scalable analytics frameworks, automate reporting processes, and drive performance with real-time, data-driven insights. </h4>
+I help organizations leverage Tableau, Alteryx, SQL, and Power BI to build scalable analytics frameworks, automate data pipelines, and deliver actionable insights that drive decision-making and operational efficiency. </h4>
 
 ### 🔗 Learn More  
 <a href="https://www.linkedin.com/in/mbellamybb/" target="_blank">
