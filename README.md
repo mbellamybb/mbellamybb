@@ -1,88 +1,58 @@
-<h1 align="center">Hi👋🏾, I'm Michael Bellamy</h1>
-<h3 align="center"> Solutions Consultant @ The Information Lab| Analytics Systems, Strategy & Enablement | MBA  </h3>   
+# Hi 👋🏾, I'm Michael Bellamy
 
-<h4 align="center"> I help organizations design scalable analytics frameworks, create self-service BI solutions, and drive data-informed decision-making. </h4>
+### Solutions Consultant | Analytics Strategy & Enablement
 
-### 🔗 Learn More  
-<a href="https://www.linkedin.com/in/mbellamybb/" target="_blank">
-    <img src="https://i.ibb.co/QD7pFL0/linkedIn.png" alt="LinkedIn" width="10%">
-</a>
+I design and build governed analytics systems that turn data into trusted, decision-ready products.
 
----
+My work spans the analytics stack, from data transformation and metric governance through self-service BI, reporting automation, and stakeholder enablement.
 
-## 🛠 Technologies & Environments  
+## What I Work On
 
-### **Analytics Architecture**  
-🔹 **Self-Service Framework Design**
-🔹 **Dashboard Standardization & Style Systems**
-🔹 **Reporting Automation Pipelines**
+- **Analytics Architecture** – scalable BI frameworks, semantic models, and reusable delivery patterns
+- **Data Transformation** – SQL, dbt, Databricks, and analytics-ready data models
+- **Analytics Governance** – metric definitions, certification, documentation, and quality controls
+- **Business Intelligence** – Tableau, executive reporting, KPI systems, and self-service analytics
+- **Automation** – Python, Tableau Prep, Alteryx, and workflow automation
+- **Analytics Enablement** – documentation, training, adoption, and operating models
 
-### **Data Visualization, Engineering & Automation**  
-🔹 **Tableau**
-🔹 **SQL**
-🔹 **Snowflake**
-🔹 **Databricks**
-🔹 **Python (automation scripting)**
-🔹 **Tableau Prep**
-🔹 **Alteryx**
+## Technical Stack
 
-### **Executive & Operational Business Intelligence**  
-🔹 **Tableau**
-🔹 **Tableau (Cloud, Server, Desktop)**
-🔹 **Power BI**
-🔹 **KPI & OKR Dashboards**
-🔹 **Regulatory Reporting Systems**
+**Data & Transformation**  
+SQL · Databricks · dbt · Snowflake · Amazon Athena · Python
 
-### **Stakeholder Management & Leadership**  
-🔹 **Agile / Scrum**
-🔹 **Jira / Confluence**
-🔹 **UAT Leadership**
-🔹 **Business Requirements Translation**
-🔹 **Consultant Mentorship**
+**Business Intelligence**  
+Tableau Desktop · Tableau Cloud · Tableau Server · Power BI
 
-### **Project Management & Collaboration Tools**  
-🔹 **Jira**
-🔹 **Confluence**
-🔹 **Google Workspace**
-🔹 **Mircosoft Office**
+**Data Preparation & Automation**  
+Tableau Prep · Alteryx · Power Automate
 
----
+**Delivery & Collaboration**  
+Git · GitHub · Jira · Confluence · Agile/Scrum
 
-## 🛠 Professional Expertise & Industry Experience  
+## Featured Work
 
-| **Industry Experience** |
-|---------------------------|
-| **Financial Services** |
-| **Non-Profit** |
-| **Insurance** |
-| **Beverage & Food Services** |
-| **Contact Centers** |
----
+My projects focus on practical analytics problems such as:
 
-## 🌐 Resources & Portfolio  
+- governed KPI and metric systems
+- analytics engineering and data transformation
+- self-service analytics architecture
+- executive and operational decision support
+- analytics automation
+- conversational and AI-assisted analytics
 
-🔹 **Website:** [mbellamybb.com](https://www.mbellamybb.com/)  
-🔹 **Career Resources for Data Professionals:** [Career Resources](https://www.mbellamybb.com/career-resources)  
-🔹 **Blog:** [Blog](https://www.mbellamybb.com/blog)  
-🔹 **Tableau Portfolio:** [Tableau Public](https://public.tableau.com/app/profile/mbellamybb)  
+## Current Focus
 
----
-## Consulting Focus
+I'm currently expanding my work across **Databricks, dbt, SQL, and analytics engineering**, with particular interest in how governed data and semantic foundations support trustworthy BI and AI-driven analytics.
 
-Here are a few examples of the types of analytics challenges I typically support across enterprise, consulting, and advisory environments.
+## Writing & Portfolio
 
-🔗 **[View Consulting Focus](https://www.mbellamybb.com/consulting-focus)**  
+🌐 **Portfolio:** mbellamybb.com  
+📊 **Tableau Public:** public.tableau.com/app/profile/mbellamybb  
+✍🏾 **Writing:** mbellamybb.com/blog  
+💼 **LinkedIn:** linkedin.com/in/mbellamybb
 
-## 🤝 Connect with Me  
+## About My Approach
 
-<p align="left" style="display: flex; gap: 10px;">
-  <a href="https://public.tableau.com/app/profile/mbellamybb/vizzes" target="_blank">
-      <img src="https://i.ibb.co/6RYfM3D0/tableau.png" alt="Tableau" height="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/mbellamybb/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="40" />
-  </a>
-  <a href="https://github.com/mbellamybb" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="40" />
-</p>
+I approach analytics as a system rather than a collection of dashboards.
 
+That means considering the data model, metric definitions, governance, user experience, operating model, and adoption together. The goal is not simply to deliver reporting, but to build analytics capabilities that teams can trust, maintain, and use independently.
